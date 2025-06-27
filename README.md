@@ -2,7 +2,7 @@
 
 **PaperPilot** 是一个基于检索增强生成 (RAG) 技术的本地知识库问答系统。它能将你的个人文档（如PDF论文、报告、书籍）转化为一个智能的、可对话的知识库，让你通过自然语言提问，获得精准、忠于原文的回答。
 
-[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/release/python-390/)
+[![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/downloads/release/python-3120/)
 
 ---
 
