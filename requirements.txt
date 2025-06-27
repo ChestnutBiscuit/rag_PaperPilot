@@ -1,0 +1,11 @@
+numpy
+torch
+sentence-transformers
+langchain-experimental
+langchain-community
+openai
+requests
+PyMuPDF
+faiss-cpu
+tqdm
+FlagEmbedding
